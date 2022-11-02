@@ -1,0 +1,39 @@
+.logo{
+    text-align: center;
+}
+article{
+    margin-left:40%;
+    margin-right:40%;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    
+}
+
+#box{
+    border-style: solid;
+    border-width: 1px;
+}
+#new {
+    text-align: center;
+}
+#buttons{
+    background-color:navajowhite
+}
+.footer ul{
+    list-style-type: none;
+    
+}
+.footer li{
+    display: inline;
+    padding-right: 20px;
+}
+.footer{
+    background-color: lightgray;
+    height: 600px;
+    text-align: center;
+}
+#forgot{
+    margin: 60px;
+    padding-right: 0px;
+}
