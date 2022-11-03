@@ -1,13 +1,24 @@
 .logo{
     text-align: center;
 }
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
 article{
     display: inline-block;
     border: 1px solid;
     padding: 20px;
-    margin-left:38%;
-    margin-right: 40%;
+    margin: auto; /* applying auto margin automatically centers the child element article relative to the flex parent body */
+    min-width: 408px;
+    max-width: 408px;
+    /* margin-left:38%;
+    margin-right: 40%; */
+
 }
+
 .new {
     text-align: center;
 }
